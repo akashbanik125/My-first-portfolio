@@ -3,7 +3,7 @@ body{
    
 }
 .image-container{
-    background-image: url("images/Banner-Image.png");
+    background-image: url("images/Banner\ Image.png");
     background-size: cover;
 width: 1320px;
 height: 600px;
@@ -70,7 +70,7 @@ color: #FF0000;
     background-position: center;
     width: 800px;
     height: 500px;
-margin: auto;    
+    margin: auto;    
 }
 .wellcome{
     background-image: url("images/Vectorrr.png");
